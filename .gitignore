@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Data user NAS (jangan commit file pribadi) — dibuat otomatis oleh server.js
+storage/
+boards/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
